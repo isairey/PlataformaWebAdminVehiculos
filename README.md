@@ -207,7 +207,7 @@ Este módulo funciona como administrador principal.
 # 📂 Estructura del proyecto
 
 ```bash
-CarRentalManagementSystem/
+PlataformaWebAdminVehiculos/
 │
 ├── api/                      # API principal
 ├── templates/                # Plantillas HTML
@@ -240,7 +240,7 @@ CarRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CarRentalManagementSystem.git
+git clone https://github.com/isairey/PlataformaWebAdminVehiculos.git
 ```
 
 ---
@@ -312,30 +312,6 @@ http://localhost:8000/api/
 - Seguimiento administrativo
 - Historial financiero
 
----
-
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🚗 Logo del sistema
-<img src="/doc/img/logo.png" width="300">
-
-### 🏠 Página principal
-![Home](https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1200&auto=format&fit=crop)
-
-### 🚘 Gestión de vehículos
-![Vehicles](https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1200&auto=format&fit=crop)
-
-### 📅 Sistema de reservas
-![Reservations](https://images.unsplash.com/photo-1485291571150-772bcfc10da5?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1200&auto=format&fit=crop)
-
-</div>
 
 ---
 
